@@ -1,0 +1,2 @@
+\\Draryas02\vbdoctor\DataSystem.mdb
+\\Draryas02\vbdoctor\DataBase.mdb
